@@ -20,7 +20,7 @@ const ibmPlexSerif = IBM_Plex_Serif({ subsets: ["latin"], weight: ['400', '700']
 
 export const metadata: Metadata = {
   title: "Orion",
-  description: "orion is an app for finance area created by Antonio Machado",
+  description: "orion is an modern app for finance area created by Antonio Machado",
   icons:"./../public/icons/logo.svg"
 
 };
